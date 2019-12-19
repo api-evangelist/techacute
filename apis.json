@@ -1,0 +1,43 @@
+{
+    "name": "TechAcute",
+    "description": "Online magazine with news and stories about technology, gaming, enterprise and innovation in the connected reality.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28378-techacute-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/techacute\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TechAcute",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28378-techacute-com.jpg",
+            "humanURL": "http:\/\/techacute.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techacute-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/techacute-com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TechAcuteCom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/techacute.com"
+        }
+    ]
+}
